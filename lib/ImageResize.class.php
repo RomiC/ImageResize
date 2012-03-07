@@ -2,7 +2,7 @@
 
 /**
  * Class for images resizing
- * Supported fromats are: jpeg, gif, png
+ * Supported formats are: jpeg, gif, png
  * @author Roman Charugin <roman.charugin@gmail.com>
  */
 class ImageResize {
